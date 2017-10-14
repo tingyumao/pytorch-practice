@@ -12,5 +12,4 @@ __pycache__
 ###############
 #jupyter files#
 ###############
-*/.ipynb_checkpoints/*.ipynb
-slstm/.ipynb_checkpoints/slstm-checkpoint.ipynb
+.ipynb_checkpoints
