@@ -1,0 +1,16 @@
+##############
+# Mac files  #
+##############
+.DS_Store
+
+##############
+#pyc files   #
+##############
+*.pyc
+__pycache__
+
+###############
+#jupyter files#
+###############
+*/.ipynb_checkpoints/*.ipynb
+slstm/.ipynb_checkpoints/slstm-checkpoint.ipynb
